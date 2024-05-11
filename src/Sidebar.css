@@ -1,0 +1,16 @@
+.parent_header {
+  position: sticky;
+  top: 0;
+}
+
+.sidebar {
+  width: 16%;
+  position: sticky;
+  top: 60px;
+  left: 0;
+  z-index: 50;
+  height: 92vh;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  background-color: white;
+}
